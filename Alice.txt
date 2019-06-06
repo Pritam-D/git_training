@@ -2,6 +2,7 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Second line
 Third Line
 Changed after creating Patrick branch
+Changed by some one else in a while ago
 
 
 
