@@ -3,6 +3,5 @@ Second line
 Third Line
 Changed after creating Patrick branch
 Changed by some one else in a while ago
+Changed to understand fetch and pull
 Changed after resolving conflict in local but not pushed to remote
-
-
